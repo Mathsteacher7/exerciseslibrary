@@ -22,7 +22,7 @@
     "html-webpack-plugin": "^4.2.0",
     "jest": "^25.4.0",
     "mongoose": "^5.9.10",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",

@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "html-webpack-plugin": "^4.2.0",
     "jest": "^25.4.0",
-    "mongoose": "^5.9.10",
+    "mongoose": "^6.13.9",
     "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
